@@ -1,2 +1,3 @@
 # capstoneEPortfolio
-My E-Portfolio for my CS capstone project.
+Evan Wang, Westminster College Graduating class of 2018.
+Eportfolio for Westminster College degree of Computer Science.
