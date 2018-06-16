@@ -12,7 +12,7 @@ The code samples are chosen to illustrate my familiarity with five key areas of 
 
 -Algorithms
 
--Software engineering. 
+-Software engineering
 
 Also contained is my resume and a link to my capstone senior project.
 
